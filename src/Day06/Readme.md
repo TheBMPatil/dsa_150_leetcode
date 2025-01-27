@@ -71,7 +71,7 @@ class Solution {
 
 ---
 ## **Submission**
-![Screenshot of the Submission](buysellstocks.png)
+![Screenshot of the Submission](buySellStocks.png)
 
 ---
 ## **Key Example**
