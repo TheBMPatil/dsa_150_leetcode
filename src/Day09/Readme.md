@@ -7,6 +7,7 @@ You are given an array `nums` where `nums[i]` represents the maximum jump length
 
 ---
 
+
 ## **Intuition**
 The problem can be solved using a **greedy approach** by tracking the farthest position (`farthest`) we can reach as we iterate through the array:
 - As we move from the start, we calculate how far we can reach from each index.
