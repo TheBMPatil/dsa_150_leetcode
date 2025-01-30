@@ -26,7 +26,7 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 | Day 4      | 1               | [View Solutions](#day-4) |  
 | Day 5      | 1               | [View Solutions](#day-5) |  
 | Day 6      | 1               | [View Solutions](#day-6) |  
-| Day 7      | 2               | [View Solutions](#day-7) |  
+| Day 7      | 1               | [View Solutions](#day-7) |  
 
 ---
 
@@ -77,26 +77,31 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 ### **Day 6**
 
 **Best Time to Buy and Sell Stock**
-   - [Solution in Repo](./Day04/Best_Time_to_Buy_and_Sell_Stock.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+   - [Solution in Repo](./src/Day04/)
+   - [Problem on LeetCode](h[ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/6335225/maximize-stock-profit-in-on-optimal-solu-opda))
 
 
 
 ---
 
 ### **Day 7**
-
-
-
 **Best Time to Buy and Sell Stock II**
-   - [Solution in Repo](./Day05/Best_Time_to_Buy_and_Sell_Stock_II.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+   - [Solution in Repo](./src/Day07/)
+   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/6339645/maximize-stock-profit-with-unlimited-tra-ysa0)
 
-**Maximize Stock Profit with Unlimited Transactions**
-   - [Solution in Repo](./Day06/Maximize_Stock_Profit.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 ---
+### **Day 8**
+**55. Jump Game**
+   - [Solution in Repo](./src/Day08/)
+   - [Problem on LeetCode](https://leetcode.com/problems/jump-game/solutions/6344356/can-you-jump-to-the-last-index-in-o-n-optimal-solution)
 
+---
+### **Day 9**
+**45. Jump Game II**
+   - [Solution in Repo](./src/Day09/)
+   - [Problem on LeetCode](https://leetcode.com/problems/jump-game-ii/solutions/6348163/jump-to-the-last-index-with-minimal-jumps-in-o-n-optimal-solution)
+
+---
 
 ## **How to Use This Repo**
 1. Each day has a folder (`Day01`, `Day02`, etc.) with solutions to the problems solved on that day.
