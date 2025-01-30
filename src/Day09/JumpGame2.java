@@ -8,6 +8,7 @@ public class JumpGame2 {
     }
 
         public static int jump(int[] nums) {
+            
             int jumps = 0, current = 0, farthest = 0;
 
             for (int i = 0; i < nums.length - 1; i++) {
