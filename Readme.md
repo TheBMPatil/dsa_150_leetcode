@@ -60,16 +60,16 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 
 ### **Day 4**
 **Majority Element**
-   - [Solution in Repo](./Day03/Majority_Element.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/majority-element/)
+   - [Solution in Repo](./src/Day04/)
+   - [Problem on LeetCode](https://leetcode.com/problems/majority-element/solutions/6328675/efficient-solution-for-finding-the-major-6ko7)
 
 
 ---
 
 ### **Day 5**
 **Rotate Array**
-   - [Solution in Repo](./Day03/Rotate_Array.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/rotate-array/)
+   - [Solution in Repo](./src/Day05/)
+   - [Problem on LeetCode](https://leetcode.com/problems/rotate-array/solutions/6330614/rotate-array-efficiently-in-o-n-on-optim-49f1)
 
 
 ---
