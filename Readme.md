@@ -7,93 +7,105 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 ## **Table of Contents**
 - [Progress Overview](#progress-overview)
 - [Problem List](#problem-list)
-   - [Day 1](#Day01)
+   - [Day 1](#day-1)
    - [Day 2](#day-2)
    - [Day 3](#day-3)
    - [Day 4](#day-4)
    - [Day 5](#day-5)
    - [Day 6](#day-6)
    - [Day 7](#day-7)
+   - [Day 8](#day-8)
+   - [Day 9](#day-9)
+   - [Day 10](#day-10)
+   - [Day 11](#day-11)
 
 ---
 
 ## **Progress Overview**
 | Day        | Problems Solved | Links to Solutions |  
 |------------|-----------------|--------------------|  
-| Day 1      | 2               | [View Solutions](#day-1) |  
-| Day 2      | 2               | [View Solutions](#day-2) |  
+| Day 1      | 1               | [View Solutions](#day-1) |  
+| Day 2      | 1               | [View Solutions](#day-2) |  
 | Day 3      | 2               | [View Solutions](#day-3) |  
 | Day 4      | 1               | [View Solutions](#day-4) |  
 | Day 5      | 1               | [View Solutions](#day-5) |  
 | Day 6      | 1               | [View Solutions](#day-6) |  
-| Day 7      | 2               | [View Solutions](#day-7) |  
+| Day 7      | 1               | [View Solutions](#day-7) |  
+| Day 8      | 1               | [View Solutions](#day-8) |  
+| Day 9      | 1               | [View Solutions](#day-9) |  
 
 ---
 
 ## **Problem List**
 
 ### **Day 1**
-1. **Merge Sorted Array**
-   - [Solution in Repo](./Day01/Merge_Sorted_Array.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/merge-sorted-array/)
-
-2. **Remove Element**
-   - [Solution in Repo](./Day01/Remove_Element.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/remove-element/)
-
+**Merge Sorted Array**
+   - [Solution in Repo](./src/Day01/)
+   - [Problem on LeetCode](https://leetcode.com/problems/merge-sorted-array/solutions/6314929/the-most-optimal-in-place-solution-to-me-cg9o/)
 ---
 
 ### **Day 2**
-1. **Remove Duplicates from Sorted Array**
-   - [Solution in Repo](./Day02/Remove_Duplicates_from_Sorted_Array.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-2. **Remove Duplicates from Sorted Array II**
-   - [Solution in Repo](./Day02/Remove_Duplicates_from_Sorted_Array_II.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+**Remove Element**
+   - [Solution in Repo](./src/Day02)
+   - [Problem on LeetCode]([https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/solutions/6320041/efficient-in-place-solution-to-remove-el-rxii/))
 
 ---
 
 ### **Day 3**
-1. **Majority Element**
-   - [Solution in Repo](./Day03/Majority_Element.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/majority-element/)
+1. **Remove Duplicates from Sorted Array**
+   - [Solution in Repo](./src/Day03/)
+   - [Problem on LeetCode]([https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/6324394/removing-duplicates-allowing-up-to-two-o-atm1/))
 
-2. **Rotate Array**
-   - [Solution in Repo](./Day03/Rotate_Array.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/rotate-array/)
+2. **Remove Duplicates from Sorted Array II**
+   - [Solution in Repo](./src/Day03/)
+   - [Problem on LeetCode]([https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6324416/removing-duplicates-from-sorted-array-mi-4yf2/))
+
 
 ---
 
 ### **Day 4**
-1. **Best Time to Buy and Sell Stock**
-   - [Solution in Repo](./Day04/Best_Time_to_Buy_and_Sell_Stock.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+**Majority Element**
+   - [Solution in Repo](./src/Day04/)
+   - [Problem on LeetCode](https://leetcode.com/problems/majority-element/solutions/6328675/efficient-solution-for-finding-the-major-6ko7)
+
 
 ---
 
 ### **Day 5**
-1. **Best Time to Buy and Sell Stock II**
-   - [Solution in Repo](./Day05/Best_Time_to_Buy_and_Sell_Stock_II.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+**Rotate Array**
+   - [Solution in Repo](./src/Day05/)
+   - [Problem on LeetCode](https://leetcode.com/problems/rotate-array/solutions/6330614/rotate-array-efficiently-in-o-n-on-optim-49f1)
+
 
 ---
 
 ### **Day 6**
-1. **Maximize Stock Profit with Unlimited Transactions**
-   - [Solution in Repo](./Day06/Maximize_Stock_Profit.java)
-   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+**Best Time to Buy and Sell Stock**
+   - [Solution in Repo](./src/Day04/)
+   - [Problem on LeetCode](h[ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/6335225/maximize-stock-profit-in-on-optimal-solu-opda))
+
+
 
 ---
 
 ### **Day 7**
-1. **Problem Placeholder 1**
-   - [Solution in Repo](./Day07/Problem1.java)
-   - [Problem on LeetCode](#)
+**Best Time to Buy and Sell Stock II**
+   - [Solution in Repo](./src/Day07/)
+   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/6339645/maximize-stock-profit-with-unlimited-tra-ysa0)
 
-2. **Problem Placeholder 2**
-   - [Solution in Repo](./Day07/Problem2.java)
-   - [Problem on LeetCode](#)
+---
+### **Day 8**
+**55. Jump Game**
+   - [Solution in Repo](./src/Day08/)
+   - [Problem on LeetCode](https://leetcode.com/problems/jump-game/solutions/6344356/can-you-jump-to-the-last-index-in-o-n-optimal-solution)
+
+---
+### **Day 9**
+**45. Jump Game II**
+   - [Solution in Repo](./src/Day09/)
+   - [Problem on LeetCode](https://leetcode.com/problems/jump-game-ii/solutions/6348163/jump-to-the-last-index-with-minimal-jumps-in-o-n-optimal-solution)
 
 ---
 
