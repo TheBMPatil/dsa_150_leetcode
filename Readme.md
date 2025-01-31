@@ -21,6 +21,15 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 
 ---
 
+## **How to Use This Repo**
+1. Each day has a folder (`Day01`, `Day02`, etc.) with solutions to the problems solved on that day.
+2. Each folder contains:
+   - A **README.md** explaining the problem statement, approach, and complexity.
+   - The **Java code** for the solution.
+3. Feel free to explore and learn from the solutions!
+
+---
+
 ## **Problem List**
 
 ### **Day 1**
@@ -99,14 +108,6 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 
 ---
 
-## **How to Use This Repo**
-1. Each day has a folder (`Day01`, `Day02`, etc.) with solutions to the problems solved on that day.
-2. Each folder contains:
-   - A **README.md** explaining the problem statement, approach, and complexity.
-   - The **Java code** for the solution.
-3. Feel free to explore and learn from the solutions!
-
----
 
 ## **About the Challenge**
 This challenge aims to strengthen my DSA skills by consistently solving problems every day. Each problem is carefully selected to ensure a balanced mix of difficulty and topics.
