@@ -24,15 +24,16 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 ## **Progress Overview**
 | Day        | Problems Solved | Links to Solutions |  
 |------------|-----------------|--------------------|  
-| Day 1      | 1               | [View Solutions](#day-1) |  
-| Day 2      | 1               | [View Solutions](#day-2) |  
-| Day 3      | 2               | [View Solutions](#day-3) |  
-| Day 4      | 1               | [View Solutions](#day-4) |  
-| Day 5      | 1               | [View Solutions](#day-5) |  
-| Day 6      | 1               | [View Solutions](#day-6) |  
-| Day 7      | 1               | [View Solutions](#day-7) |  
-| Day 8      | 1               | [View Solutions](#day-8) |  
-| Day 9      | 1               | [View Solutions](#day-9) |  
+| Day 1      | 1               | [View Solutions](#day-1)  |  
+| Day 2      | 1               | [View Solutions](#day-2)  |  
+| Day 3      | 2               | [View Solutions](#day-3)  |  
+| Day 4      | 1               | [View Solutions](#day-4)  |  
+| Day 5      | 1               | [View Solutions](#day-5)  |  
+| Day 6      | 1               | [View Solutions](#day-6)  |  
+| Day 7      | 1               | [View Solutions](#day-7)  |  
+| Day 8      | 1               | [View Solutions](#day-8)  |  
+| Day 9      | 1               | [View Solutions](#day-9)  |  
+| Day 10     | 1               | [View Solutions](#day-10) |  
 
 ---
 
@@ -106,6 +107,12 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 **45. Jump Game II**
    - [Solution in Repo](./src/Day09/)
    - [Problem on LeetCode](https://leetcode.com/problems/jump-game-ii/solutions/6348163/jump-to-the-last-index-with-minimal-jumps-in-o-n-optimal-solution)
+
+---
+### **Day 10**
+**274. H-Index**
+   - [Solution in Repo](./src/Day10/)
+   - [Problem on LeetCode](https://leetcode.com/problems/h-index/solutions/6352431/jump-to-the-last-index-with-minimal-jump-fsyb)
 
 ---
 
