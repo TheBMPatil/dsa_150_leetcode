@@ -49,18 +49,17 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 
 **Remove Element**
    - [Solution in Repo](./src/Day02)
-   - [Problem on LeetCode]([https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/solutions/6320041/efficient-in-place-solution-to-remove-el-rxii/))
-
+   - [Problem on LeetCode](https://leetcode.com/problems/remove-element/solutions/6320041/efficient-in-place-solution-to-remove-el-rxii/)
 ---
 
 ### **Day 3**
 1. **Remove Duplicates from Sorted Array**
    - [Solution in Repo](./src/Day03/)
-   - [Problem on LeetCode]([https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/6324394/removing-duplicates-allowing-up-to-two-o-atm1/))
+   - [Problem on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/6324394/removing-duplicates-allowing-up-to-two-o-atm1/)
 
 2. **Remove Duplicates from Sorted Array II**
    - [Solution in Repo](./src/Day03/)
-   - [Problem on LeetCode]([https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6324416/removing-duplicates-from-sorted-array-mi-4yf2/))
+   - [Problem on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6324416/removing-duplicates-from-sorted-array-mi-4yf2/)
 
 
 ---
@@ -85,7 +84,7 @@ Welcome to my **150 Days DSA Challenge** repository! Here, I document my journey
 
 **Best Time to Buy and Sell Stock**
    - [Solution in Repo](./src/Day04/)
-   - [Problem on LeetCode](h[ttps://leetcode.com/problems/best-time-to-buy-and-sell-stock/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/6335225/maximize-stock-profit-in-on-optimal-solu-opda))
+   - [Problem on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/6335225/maximize-stock-profit-in-on-optimal-solu-opda)
 
 
 
